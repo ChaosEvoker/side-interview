@@ -27,6 +27,8 @@ yarn start
 
 In general, I tried to limit the scope of the project to the features described in the assignment. I tried to eschew practices that would complicate the code for very little gain. In the remaining sections, I will go through some of these decisions as well as areas that could be improved were this to begin to take shape as a real software product. I had a lot of fun doing this. It felt much more engaging than the simple timed coding tests I've often done. I look forward to hearing back from you!
 
+
+
 <a id="practices"></a>
 
 # Better Practices
@@ -44,6 +46,8 @@ The Firebase DB I set up currently is not authenticated. Obviously, in a real wo
 ## Environment Configuration
 
 Several of the parameters in the code are ones that would be better suited to an environmental configuration. For example, the authentication used for SimplyRETS, or the Firebase configuration. However, given the nature of the project I thought implementing this would serve to add complexity without any benefit.
+
+
 
 <a id="orgb010b26"></a>
 
