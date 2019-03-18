@@ -20,6 +20,8 @@ To setup the project, just clone the repository and run:
 yarn
 yarn start
 ```
+<br/>
+<br/>
 
 <a id="org59f8490"></a>
 
