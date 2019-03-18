@@ -1,7 +1,7 @@
 To setup, just clone the repository and run:
 
 ```
-yarn build
+yarn
 yarn start
 ```
 
