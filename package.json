@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "firebase": "^5.9.0",
+    "moment": "^2.24.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "react-tooltip": "^3.10.0",
+    "underscore": "^1.9.1",
+    "uuid": "^3.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
