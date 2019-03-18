@@ -10,7 +10,7 @@
     2.  [Styles](#org3f63baf)
     3.  [Data Architecture](#org2c8d390)
 
-<a id="setup></a>
+<a id="setup"></a>
 
 # Setup
 
